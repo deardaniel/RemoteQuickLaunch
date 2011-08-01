@@ -7,6 +7,8 @@ It uses Java Remote Procedure Calls (RPCs) to transfer a list of shortcut icons 
 
 Remote discovery is done via mDNS and the open-source jmdns package is included, with its NOTICE.
 
+It is set up as an Eclipse project and you can build it from there.
+
 Copyright
 ---------
 Copyright (c) 2009 Daniel Heffernan. See LICENSE.txt for further details.
