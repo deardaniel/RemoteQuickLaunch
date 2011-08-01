@@ -1,0 +1,12 @@
+RemoteQuickLaunch
+=================
+
+This is a project I did back in 2009 to allow me start programs on my Windows 7 PC from my OS X Snow Leopard MacBook.
+
+It uses Java Remote Procedure Calls (RPCs) to transfer a list of shortcut icons from the host PC to the remote control computer. The remote control computer can then instruct the host to open shortcuts by clicking on them.
+
+Remote discovery is done via mDNS and the open-source jmdns package is included, with its NOTICE.
+
+Copyright
+---------
+Copyright (c) 2009 Daniel Heffernan. See LICENSE.txt for further details.
